@@ -1,0 +1,17 @@
+/* Adjusted CSS */
+.homeContainer{
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  background: url('C:\Users\moham\OneDrive\Bureau\chain_hotel\Client\client\public\1000_F_586312401_3HMrftU1NqkAeC4Wx7aBCgT21DoNfwZB.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.homeTitle{
+  width: 1024px;
+  font-size: 20px;
+  /* Ensure the title is visible against the background */
+  color: #ffffff;
+}
